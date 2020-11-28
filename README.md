@@ -1,8 +1,8 @@
-#Sqli-Echallenge
+# Sqli-Echallenge
 Given the test classes, the objective of this challenge is to valid  all the tests.
 HackerRank Train Problem Solution.
 
-##Please note these rules : 
+## Please note these rules : 
 
  The aim of this exercise is to design and write a code to pass all tests.
 
