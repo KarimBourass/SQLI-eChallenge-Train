@@ -1,5 +1,5 @@
 # Sqli-Echallenge
-Given the test classes, the objective of this challenge is to valid  all the tests.
+Given the test classe, the objective of this challenge is to valid  all the tests.
 HackerRank Train Problem Solution.
 
 ## Please note these rules : 
